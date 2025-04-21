@@ -4,7 +4,7 @@ This research project **explores phenotypic variations in the common fruit fly**
 
 The study entails **collecting samples, observing phenotypic traits**, and conducting **statistical analysis** to determine the significance of observed variations.
 
-# Files in this Repository
+## Files in this Repository
 **LICENSE**: Creative Commons license if others wish to build on my work
 
 **README.md**: The key information to understand this repository and project.
