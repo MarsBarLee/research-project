@@ -1,3 +1,5 @@
+Material were aggregated by Rowan Cockett, https://github.com/rowanc1/article-template
+
 # Project Overview
 
 This research project **explores phenotypic variations in the common fruit fly**/Drosophila melanogaster across different environments, aiming to understand the **influence of environmental factors on genetic expression**.
