@@ -4,8 +4,13 @@ This research project explores phenotypic variations in Drosophila melanogaster/
 
 # Files in this Repository
 LICENSE: Creative Commons license if others wish to build on my work
+
 README.md: The key information to understand this repository and project.
+
 analysis.ipynb: Jupyter Notebook with my statistical analysis
+
 article.md: A report summarizing my findings and analysis.
+
 fruit_fly_data.csv: Raw data collected from samples.
+
 references.bib: A bibliogrpahy citing the open source software used.
