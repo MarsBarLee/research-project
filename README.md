@@ -1,6 +1,8 @@
 # Project Overview
 
-This research project **explores phenotypic variations in the common fruit fly**/Drosophila melanogaster across different environments, aiming to understand the **influence of environmental factors on genetic expression**. The study entails **collecting samples, observing phenotypic traits**, and conducting **statistical analysis** to determine the significance of observed variations.
+This research project **explores phenotypic variations in the common fruit fly**/Drosophila melanogaster across different environments, aiming to understand the **influence of environmental factors on genetic expression**.
+
+The study entails **collecting samples, observing phenotypic traits**, and conducting **statistical analysis** to determine the significance of observed variations.
 
 # Files in this Repository
 **LICENSE**: Creative Commons license if others wish to build on my work
