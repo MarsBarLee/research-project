@@ -95,7 +95,7 @@ The source for this data can be found in [](./fruit_fly_data.csv).
 | Environment          | Red-Eyed Flies (%) | Larger Wings (%) |
 | -------------------- | ------------------ | ---------------- |
 | Cafeteria            | 76%                | 49%              |
-| Biology Laboratory   | 58%                | 53%              |
+| Chemistry Laboratory   | 58%                | 53%              |
 | Outdoor Green Spaces | 63%                | 68%              |
 
 :::
