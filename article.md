@@ -3,9 +3,8 @@ title: "Morgan's Marvelous Mutations: Unraveling the Mysteries of Genetic Variat
 abstract: |
   Here we present a templating guide for Research Articles submitted to _The Morganton Scientific_. We use some inspiration from [Thomas Hunt Morgan](https://en.wikipedia.org/wiki/Thomas_Hunt_Morgan), who was a pioneering American geneticist whose work with fruit flies ([Drosophila melanogaster](https://en.wikipedia.org/wiki/Drosophila_melanogaster)) in the early 20th century provided the first solid evidence of genes being carried on chromosomes. This background provides a scaffold for exploring templating in a realistic way, without looking at too much [Lorem Ipsum](https://en.wikipedia.org/wiki/Lorem_ipsum) text. The paper shows analysis in a Jupyter Notebook and uses those in a reproducible manner in the article. 
 
-  Your abstract should be between 100-200 words, and introduce a technical synopsis of your paper that includes background, methods, results, and conclusions. You can use the `abstract: |` key in your article frontmatter to write it.
 acknowledgments: |
-  We thank our school, teachers, and fellow students for their support and encouragement throughout this project.
+  Thank you Advisor Drosophila, the University of Melanogaster and my best friend, Morganton.
   
 ---
 
